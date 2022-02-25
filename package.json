@@ -1,0 +1,31 @@
+{
+  "name": "homepage",
+  "version": "0.0.1",
+  "dependencies": {
+    "styled-components": "^5.3.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-is": "17.0.2",
+    "next": "12.0.7",
+    "node-sass": "^7.0.1",
+    "next-themes": "^0.0.15",
+    "path": "^0.12.7",
+    "fs": "^0.0.1-security",
+    "gray-matter": "^4.0.3",
+    "next-mdx-remote": "^4.0.0",
+    "react-responsive-carousel": "^3.2.22",
+    "antd": "^4.16.13",
+    "react-draggable": "^4.4.4",
+    "crypto-js": "^4.1.1",
+    "react-awesome-slider": "^4.1.0"
+  },
+  "devDependencies": {
+    "@nrwl/next": "^13.8.0",
+    "@testing-library/react": "12.1.2",
+    "@storybook/react": "^6.5.0-alpha.39",
+    "@babel/core": "7.12.13"
+  },
+  "scripts": {
+    "start": "next start"
+  }
+}
